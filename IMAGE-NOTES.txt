@@ -1,0 +1,110 @@
+ИЗОБРАЖЕНИЯ САЙТА «АРКТИКА МОЛОДАЯ»
+
+Исходные фотографии и логотип предоставлены в архиве fond_arctica.zip.
+Новая панорама создана встроенным инструментом ImageGen.
+Это иллюстративный арктический пейзаж; он не изображает событие фонда.
+
+Файлы панорамы в архиве сайта:
+assets/images/arctic-panorama.webp
+assets/images/arctic-panorama-mobile.webp
+
+Остальные изображения:
+assets/images/logo.png — исходный логотип.
+assets/images/arctic-child.webp — «Дети Арктики».
+assets/images/lukina-chilingarov.webp — В. Б. Лукина и А. Н. Чилингаров.
+assets/images/talents-presentation.webp — презентация «Таланты Арктики. Дети».
+assets/images/festival-diplomas.webp — подписание дипломов фестиваля.
+
+Полный запрос для создания панорамы:
+Use case: photorealistic-natural. Asset type: panoramic hero background for the Russian nonprofit foundation «Арктика молодая», supporting young creative people. Primary request: create a breathtaking, quiet Arctic coastal panorama, pale blue glaciers and rugged snowy mountains around a broad dark blue fjord at early dawn. Style: premium editorial landscape photography, natural and believable, restrained cinematic color grading, detailed snow and cold water, crisp atmospheric perspective. Composition: landscape 16:9, very wide open deep navy water in the entire left half and foreground for white website typography, layered glacial mountains mostly along the right half, gentle luminous sky in the upper third, no foreground objects. Lighting: soft polar dawn, cool powder blue sky and ice, subtle warm sunlight only at distant horizon, serene and hopeful. Palette: deep ink navy, glacier blue, white. Constraints: no people, buildings, boats, wildlife, logos, symbols, captions or written text; no invented real event, no watermark, no fantasy elements, no excessive aurora, no intense purple or oversaturation. This is an illustrative natural backdrop, not a documentary photograph of the foundation's activities.
+
+
+ДОПОЛНИТЕЛЬНЫЕ ФОТОГРАФИИ ИЗ ИНТЕРНЕТА
+
+Фестиваль «Молодая Арктика», Москва, 2018.
+Публикация: Владимир Киселев, Городской портал «Твой Центр», 02.06.2018.
+Проект «Таланты Арктики. Дети», награждение и участники, 2019.
+Публикация: Федеральное агентство по делам национальностей, 12.12.2019.
+Исходные годы мероприятий и адреса публикаций сохранены в этом описании.
+Раздел «Из истории проектов» не содержит дат и внешних ссылок.
+Это фотографии из истории проектов; даты не относятся к году регистрации фонда.
+Лица, подписи и события не перерисовывались.
+
+assets/images/festival-jury.webp
+Виктория Лукина представляет жюри фестиваля «Молодая Арктика», Москва, 2018
+Источник: Городской портал «Твой Центр»
+Публикация: https://tvoicenter.com/?p=33217
+Файл в источнике: https://tvoicenter.com/wp-content/uploads/2018/06/%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D0%9B%D1%83%D0%BA%D0%B8%D0%BD%D0%B0-%D0%9F%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B6%D1%8E%D1%80%D0%B8_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F-%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-%D0%A5%D0%9E%D0%A0%D0%9E%D0%A8%D0%98%D0%A5-%D0%98%D0%94%D0%95%D0%99-20180531_030914-800x431.jpg
+
+assets/images/festival-performance.webp
+Выступление участников творческой программы фестиваля «Молодая Арктика», Москва, 2018
+Источник: Городской портал «Твой Центр»
+Публикация: https://tvoicenter.com/?p=33217
+Файл в источнике: https://tvoicenter.com/wp-content/uploads/2018/06/%D0%94%D0%95%D0%92%D0%A3%D0%A8%D0%9A%D0%98-%D0%A1-%D0%91%D0%A3%D0%91%D0%9D%D0%90%D0%9C%D0%98-%D0%98-%D0%9C%D0%95%D0%94%D0%92%D0%95%D0%94%D0%AC_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F-%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-%D0%A5%D0%9E%D0%A0%D0%9E%D0%A8%D0%98%D0%A5-%D0%98%D0%94%D0%95%D0%99__IMG_2498-800x429.jpg
+
+assets/images/festival-awards.webp
+Награждение участников фестиваля «Молодая Арктика», Москва, 2018
+Источник: Городской портал «Твой Центр»
+Публикация: https://tvoicenter.com/?p=33217
+Файл в источнике: https://tvoicenter.com/wp-content/uploads/2018/06/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BF%D1%80%D0%B8%D0%B7%D0%B5%D1%80%D1%8B-%D0%A1-%D0%91%D0%95%D0%9B%D0%AB%D0%9C-%D0%9C%D0%95%D0%94%D0%92%D0%95%D0%94%D0%95%D0%9C_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F-%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-%D0%A5%D0%9E%D0%A0%D0%9E%D0%A8%D0%98%D0%A5-%D0%98%D0%94%D0%95%D0%99_IMG_2450-800x545.jpg
+
+assets/images/festival-singer.webp
+Рахтына Тымкыль на фестивале «Молодая Арктика», Москва, 2018
+Источник: Городской портал «Твой Центр»
+Публикация: https://tvoicenter.com/?p=33217
+Файл в источнике: https://tvoicenter.com/wp-content/uploads/2018/06/%D0%A1%D0%BE%D0%BB%D0%BD%D1%8B%D1%88%D0%BA%D0%BE_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81-%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B8_%D0%A0%D0%B0%D1%85%D1%82%D1%8B%D0%BD%D0%B0-%D0%A2%D1%8B%D0%BC%D0%BA%D1%8B%D0%BB%D1%8C_%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F-%D0%90%D1%80%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0-%D0%A5%D0%9E%D0%A0%D0%9E%D0%A8%D0%98%D0%A5-%D0%98%D0%94%D0%95%D0%99_20180526_151918-800x450.jpg
+
+assets/images/talents-awards.webp
+Награждение участников проекта «Таланты Арктики Дети» в Совете Федерации, 2019
+Источник: ФАДН России
+Публикация: https://fadn.gov.ru/press-centr/news/2019/12/12/4015-torzhestvennaya-tseremoniya-nagrazhdeniya-pobediteley-vserossiyskogo-kulturno-obrazovatelnogo-proekta-talanty-arktiki-deti
+Файл в источнике: https://fadn.gov.ru/assets/images/products/2578/3aeb19fa-c0f4-4c41-8a53-681fc52ba75d.jpeg
+
+assets/images/talents-awards-costumes.webp
+Участники проекта «Таланты Арктики Дети» в традиционных костюмах, 2019
+Источник: ФАДН России
+Публикация: https://fadn.gov.ru/press-centr/news/2019/12/12/4015-torzhestvennaya-tseremoniya-nagrazhdeniya-pobediteley-vserossiyskogo-kulturno-obrazovatelnogo-proekta-talanty-arktiki-deti
+Файл в источнике: https://fadn.gov.ru/assets/images/products/2578/f6e9f875-92e3-41eb-b95c-6e8ec70d0cc5.jpeg
+
+
+
+ОБНОВЛЕНИЕ ФОТОГРАФИЙ ПО МАТЕРИАЛАМ ПОЛЬЗОВАТЕЛЯ
+
+assets/images/lukina-chilingarov.webp
+Новая версия снимка рукопожатия, предоставленная пользователем.
+Используется в разделе «Люди фонда» и фотогалерее вместо прежней версии.
+Исходный файл: В.Б. Лукина и А. Чилингаров - рукопожатие.png
+
+assets/images/festival-arctic-academy.webp
+Деловая программа фестиваля «Молодая Арктика» — Арктическая академия
+Исходный файл, предоставленный пользователем: ВБ-МИТЬКО-Арктическая-Академия_Молодая-Арктика_Поддержка-ХОРОШИХ-ИДЕЙ_20180525_143435-800x450.jpg
+
+assets/images/festival-northern-dance.webp
+Сценическая программа фестиваля «Молодая Арктика» — национальный танец
+Исходный файл, предоставленный пользователем: Молодая-Арктика-как-ЛЕБЕДЬ-БЕЛАЯ_Поддержка-ХОРОШИХ-ИДЕЙ_IMG_2415-копия-800x606.jpg
+
+assets/images/festival-business-program.webp
+Виктория Лукина на деловой программе фестиваля «Молодая Арктика»
+Исходный файл, предоставленный пользователем: Деловая-программа-ОП-РФ_организатор-В-ЛУКИНА_Молодая-Арктика_Поддержка-ХОРОШИХ-ИДЕЙ_20180525_142743-800x450.jpg
+
+assets/images/festival-animation-screening.webp
+Показ анимации на деловой программе фестиваля «Молодая Арктика»
+Исходный файл, предоставленный пользователем: Мультики-в-ОП-РФ-Сенатор-Шахотин_Молодая-Арктика_Поддержка-ХОРОШИХ-ИДЕЙ_20180531_025601-800x480.jpg
+
+
+ЛОГОТИП ФЕСТИВАЛЯ И ПОРТРЕТЫ КОМАНДЫ
+
+assets/images/brics-film-festival.webp
+Исходный файл, предоставленный пользователем: favicon.png
+
+assets/images/elena-bondarenko.webp
+Исходный файл, предоставленный пользователем: Елена Бондаренко.png
+
+assets/images/oksana-vereshchagina.webp
+Исходный файл, предоставленный пользователем: Оксана Верещагина.jpg
+
+assets/images/yulia-pechagina.webp
+Исходный файл, предоставленный пользователем: Юлия Печагина.JPG
+
+Логотип БРИКС+ размещён в карточке фестиваля с переходом на https://bricsfilmfest.com
+Портреты команды оптимизированы в WebP; внешность не ретушировалась.
